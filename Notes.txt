@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=bGqS0f4Utn4
+https://www.ubuntu.com/download/
+https://jenkins.io/download/
+initial password C:\Jenkins\secrets
+
+
+JDK
+C:\Program Files\Java\jdk1.8.0_112\bin
+
+create folder hello
+
+git init
+git add .
+git status
+git commit -m "add files"
+git remote add origin https.....
+git push -u origin master
+
